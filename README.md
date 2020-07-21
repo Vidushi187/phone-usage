@@ -9,7 +9,7 @@ Do the following tasks and answer the inquiries in order achieve the required gr
 
 2. Try to do the best setting possible for the algorithms to have the best clusters (groups of clients)
 
-3. For each of the three clustering models, try to generate 3D model that represent the clusters. The model should have the three usage factors mentioned above (local, long distance and international calls durations); and should show each cluster with different color. Take a screenshot for each of the graphs and past them in this document. (6 Marks)
+3. For each of the three clustering models, try to generate 3D model that represent the clusters. The model should have the three usage factors mentioned above (local, long distance and international calls durations); and should show each cluster with different color. Take a screenshot for each of the graphs and past them in this document. 
 
 4. For each one of the three clustering algorithms result, explain whether it was good clustering or not with justification
 
