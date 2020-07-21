@@ -1,5 +1,5 @@
 # phone-usage
-Assignment at Carleton: Data analytics to group clients according to usage characteristics
+Assignment: Data analytics to group clients according to usage characteristics
 
 
 Consider that you are the Information Processing Specialist for a telecommunication company. The general manager acquired your help to group the company clients based on their usage for services. The data that has the clients’ usage can be found in “Telecom” file in CuLearn.
