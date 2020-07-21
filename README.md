@@ -50,7 +50,9 @@ I observed following properties of clusters of each of these algorithms that jus
 
 5. Which clustering result do you think it was the best with justification?
 
-To summarise, I think k-means was best clustering algorithm, followed closely behind with two step. Visually, k-means displayed better separation between dissimilar clusters. This means that it formed clusters with distinct features. It also had a cluster with highest number of data points and highest “largest to smallest” cluster size ratio. This tells me that it recognised a usage pattern that had high frequency in this data. This would give me confidence to make business decisions favoring this usage pattern. The mean usage for international, long distance and local is clearly depicted in result chart below. Additionally, wide variation in mean values of usage helps me clearly distinguish between clusters as was displayed in k-means. Sample mean values of one cluster if shown in figure 9.
+To summarise, I think k-means was best clustering algorithm, followed closely behind with two step. Visually, k-means displayed better separation between dissimilar clusters. This means that it formed clusters with distinct features. It also had a cluster with highest number of data points and highest “largest to smallest” cluster size ratio. This tells me that it recognised a usage pattern that had high frequency in this data. This would give me confidence to make business decisions favoring this usage pattern. The mean usage for international, long distance and local is clearly depicted in result chart below. Additionally, wide variation in mean values of usage helps me clearly distinguish between clusters as was displayed in k-means. Sample mean values of one cluster if shown in figure
+
+![this image](https://github.com/Vidushi187/phone-usage/blob/input-data/mean%20usage%20patterns.png)
 
 
 
