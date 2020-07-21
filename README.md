@@ -23,6 +23,7 @@ I observed following properties of clusters of each of these algorithms that jus
 **k-means:** All clusters are spatially separated on the graph showing clear dissimilarity between heterogenous clusters. This makes it a good cluster.
 
 **Kohonen:** I don’t think this is a good cluster. Data points are close together in x-y plane but there are also some outliers that are far away from most of other data points in their cluster. This tells me that there are no unique parameters for these clusters.
+
 **Two-step:** 3D model shows better clustering compared to kohonen but not as good as k-means. As is observed, data points colored light blue is overlapping with data points colored dark blue. There is not enough separation between different clusters.
 
 #### Cluster sizes
